@@ -29,3 +29,9 @@ body {
 	padding: 0.5rem;
 	border-radius: 0.5rem;
 }
+
+.container img {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
